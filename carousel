@@ -1,0 +1,48 @@
+ <div class="carousel-container">
+<div class="carousel-slide">
+    
+    <div class="project-card">
+    <div class="project-image" style="background-image: url('https://picsum.photos/id/1/800/400');"></div>
+        <div class="project-info">
+            <span class="tag">Retail Management System</span>
+            <h3>Lorskie Store RMS</h3>
+            <p>A collaborative Retail Management System project. Involves managing daily operations of the retail business including the inventory of stocks inserted in database.</p>
+            <div class="tech-stack">
+                <span>PHP</span> <span>HTML</span> <span>CSS</span> <span>JavaScript</span> <span>MySQL</span>
+            </div>
+            <a href="https://github.com/MrcGvnLr/Lorskie-Store" target="_blank " class="view-link">View Project→</a>
+        </div>
+    </div>
+
+    <div class="project-card">
+    <img class="project-image" src="images/undead.jpg"></img>
+        <div class="project-info">
+            <span class="tag">Game Developing</span>
+            <h3>Undead Ascension</h3>
+            <p>A shooting game where players must survive hordes of undead creature, and strive to survive as long as they can.</p>
+            <div class="tech-stack">
+                <span>Scratch</span>
+            </div>
+            <a href="https://scratch.mit.edu/projects/969228217/" target="_blank" class="view-link">View Project→</a>
+        </div>
+    </div>
+
+    <div class="project-card">
+    <div class="project-image" style="background-image: url('https://picsum.photos/id/1/800/400');"></div>
+        <div class="project-info">
+            <span class="tag">Data Analysis</span>
+            <h3>Data Cleaning Approach on World Layoffs Dataset</h3>
+            <p>A SQL data cleaning script that remove duplicates, normalize data, and handle missing values on raw data.</p>
+            <div class="tech-stack">
+                <span>MySQL</span>
+                <span>MS Excel</span>
+
+            </div>
+            <a href="https://github.com/MrcGvnLr/World-Layoffs-Data-cleaning" target="_blank" class="view-link">View Project→</a>
+        </div>
+    </div>
+
+</div>
+
+    <button id="prevBtn" class="nav-btn">⮜</button>
+    <button id="nextBtn" class="nav-btn">⮞</button>
